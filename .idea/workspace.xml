@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6d3157f-bd0f-43b4-aeea-11918ae35424" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="232" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIjkzzX0fpMQtE20sZFQ0oQK4c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abirm\Google Drive\My Ubuntu\3-2\Networking Sessionals\8Puzzle" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayWrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayWrap" />
+      <module name="8Puzzle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="8Puzzle" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Puz" />
+      <module name="8Puzzle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayWrap" />
+        <item itemvalue="Application.Puz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6d3157f-bd0f-43b4-aeea-11918ae35424" name="Default Changelist" comment="" />
+      <created>1582637149898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582637149898</updated>
+      <workItem from="1582637151575" duration="3963000" />
+      <workItem from="1582768769547" duration="6070000" />
+      <workItem from="1582790963619" duration="9130000" />
+      <workItem from="1582864060395" duration="4825000" />
+      <workItem from="1582900826482" duration="5628000" />
+      <workItem from="1583608792699" duration="11408000" />
+      <workItem from="1583634871618" duration="1727000" />
+      <workItem from="1583639484645" duration="130000" />
+      <workItem from="1601204310414" duration="4752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="421" key="GridCell.Tab.0.bottom" timestamp="1601215420581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="421" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601215420581" />
+    <state width="1493" height="421" key="GridCell.Tab.0.center" timestamp="1601215420581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="421" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601215420581" />
+    <state width="1493" height="421" key="GridCell.Tab.0.left" timestamp="1601215420581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="421" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601215420581" />
+    <state width="1493" height="421" key="GridCell.Tab.0.right" timestamp="1601215420581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="421" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601215420581" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/8Puzzle$Main.ic" NAME="Main Coverage Results" MODIFIED="1583621386994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
